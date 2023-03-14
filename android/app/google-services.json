@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "254146203249",
+    "project_id": "fir-fcm-app-c399f",
+    "storage_bucket": "fir-fcm-app-c399f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254146203249:android:f1d76576f33a35675c55d0",
+        "android_client_info": {
+          "package_name": "com.ilyosyusuf.firebase_fcm_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254146203249-gfmkd90k1jvtps6t73vmt6mtaluqpjrj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ilyosyusuf.firebase_fcm_app",
+            "certificate_hash": "34211b00222312a5db9519501b2bf921bafd6fa9"
+          }
+        },
+        {
+          "client_id": "254146203249-8p6pg6mf8sqe3qrgkmj0kepvmq8vve6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdNUyrt2m-E4hfcdefrLlTBNf6XEymhF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254146203249-8p6pg6mf8sqe3qrgkmj0kepvmq8vve6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

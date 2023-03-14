@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.ilysyusuf.firebase_fcm_app">
+    package="com.ilyosyusuf.firebase_fcm_app">
    <application
         android:label="firebase_fcm_app"
         android:icon="@mipmap/ic_launcher">

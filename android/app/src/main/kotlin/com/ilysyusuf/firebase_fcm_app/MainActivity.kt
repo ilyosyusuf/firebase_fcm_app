@@ -1,4 +1,4 @@
-package com.ilysyusuf.firebase_fcm_app
+package com.ilyosyusuf.firebase_fcm_app
 
 import io.flutter.embedding.android.FlutterActivity
 
